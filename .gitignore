@@ -39,8 +39,12 @@ TestResult.xml
 [Dd]ebugPS/
 [Rr]eleasePS/
 dlldata.c
-*/obj/*
-*/bin/*
+*.cache
+*.dll
+*.txt
+*.mdb
+*.pdb
+
 
 # DNX
 project.lock.json
