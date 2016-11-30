@@ -1,0 +1,4 @@
+AndroidAppGuit.MainActivity, AndroidAppGuit;md50bb38339ee054c09b74d428b881ca328.MainActivity
+AndroidAppGuit.MainActivity, AndroidAppGuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md50bb38339ee054c09b74d428b881ca328.MainActivity
+AndroidAppGuit.MainActivity;md50bb38339ee054c09b74d428b881ca328.MainActivity
+androidappguit.MainActivity;md50bb38339ee054c09b74d428b881ca328.MainActivity

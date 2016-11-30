@@ -1,0 +1,4 @@
+GuitHubApi.Droid.MainActivity, GuitHubApi.Droid;md50c5de277f1b64bf52d90cda8510c1789.MainActivity
+GuitHubApi.Droid.MainActivity, GuitHubApi.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md50c5de277f1b64bf52d90cda8510c1789.MainActivity
+GuitHubApi.Droid.MainActivity;md50c5de277f1b64bf52d90cda8510c1789.MainActivity
+guithubapi.droid.MainActivity;md50c5de277f1b64bf52d90cda8510c1789.MainActivity

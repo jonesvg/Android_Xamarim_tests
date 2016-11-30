@@ -1,0 +1,17 @@
+C:\Users\JonesVG\Documents\Visual Studio 2015\Projects\ProjetosAndroid\GuitHubApi\GuitHubApi\bin\Debug\GuitHubApi.dll.config
+C:\Users\JonesVG\Documents\Visual Studio 2015\Projects\ProjetosAndroid\GuitHubApi\GuitHubApi\bin\Debug\GuitHubApi.dll
+C:\Users\JonesVG\Documents\Visual Studio 2015\Projects\ProjetosAndroid\GuitHubApi\GuitHubApi\bin\Debug\GuitHubApi.pdb
+C:\Users\JonesVG\Documents\Visual Studio 2015\Projects\ProjetosAndroid\GuitHubApi\GuitHubApi\bin\Debug\Newtonsoft.Json.dll
+C:\Users\JonesVG\Documents\Visual Studio 2015\Projects\ProjetosAndroid\GuitHubApi\GuitHubApi\bin\Debug\System.Net.Http.dll
+C:\Users\JonesVG\Documents\Visual Studio 2015\Projects\ProjetosAndroid\GuitHubApi\GuitHubApi\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\JonesVG\Documents\Visual Studio 2015\Projects\ProjetosAndroid\GuitHubApi\GuitHubApi\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\JonesVG\Documents\Visual Studio 2015\Projects\ProjetosAndroid\GuitHubApi\GuitHubApi\bin\Debug\Newtonsoft.Json.xml
+C:\Users\JonesVG\Documents\Visual Studio 2015\Projects\ProjetosAndroid\GuitHubApi\GuitHubApi\bin\Debug\System.Net.Http.xml
+C:\Users\JonesVG\Documents\Visual Studio 2015\Projects\ProjetosAndroid\GuitHubApi\GuitHubApi\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\JonesVG\Documents\Visual Studio 2015\Projects\ProjetosAndroid\GuitHubApi\GuitHubApi\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\JonesVG\Documents\Visual Studio 2015\Projects\ProjetosAndroid\GuitHubApi\GuitHubApi\obj\Debug\GuitHubApi.csproj.App.config
+C:\Users\JonesVG\Documents\Visual Studio 2015\Projects\ProjetosAndroid\GuitHubApi\GuitHubApi\obj\Debug\GuitHubApi.csprojResolveAssemblyReference.cache
+C:\Users\JonesVG\Documents\Visual Studio 2015\Projects\ProjetosAndroid\GuitHubApi\GuitHubApi\obj\Debug\GuitHubApi.dll
+C:\Users\JonesVG\Documents\Visual Studio 2015\Projects\ProjetosAndroid\GuitHubApi\GuitHubApi\obj\Debug\GuitHubApi.pdb
+C:\Users\JonesVG\documents\visual studio 2015\Projects\ProjetosAndroid\GuitHubApi\GuitHubApi\obj\Debug\GuitHubApi.dll.mdb
+C:\Users\JonesVG\documents\visual studio 2015\Projects\ProjetosAndroid\GuitHubApi\GuitHubApi\bin\Debug\GuitHubApi.dll.mdb
